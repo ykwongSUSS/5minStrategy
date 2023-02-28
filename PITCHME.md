@@ -169,6 +169,6 @@ theme: default
 
 ---
 
-![bg height:20cm](assets/NeelamRetires.png)
+![bg height:20cm](assets/NeelamRetires.jpg)
 
 ---
