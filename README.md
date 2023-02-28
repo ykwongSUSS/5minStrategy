@@ -18,6 +18,5 @@ using DataFrame
 
 ![logo](./assets/susslogo.png)
 
-## Thank you for listening
 
-### Presentation made by [google](google.com)
+### Presentation made by [marp](marp.app)
