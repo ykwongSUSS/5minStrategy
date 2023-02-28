@@ -3,7 +3,6 @@ title: Markdown presentation
 description: 5 min Strategy Lesson
 paginate: true
 marp: true
-# size: 4:3
 footer: ykwong@suss.edu.sg
 theme: default
 ---
@@ -26,6 +25,7 @@ theme: default
 
 * People
 -->
+
 ---
 
 # Strategic Plan
@@ -101,7 +101,7 @@ theme: default
 
 <!-- _backgroundColor: lightblue -->
 
-# <span style="color:brown;">Capability</span>
+# Capability
 
 ## what you wish &harr; what is capable<!--- fit --->
 
@@ -119,7 +119,7 @@ theme: default
 
 <!-- _backgroundColor: lightblue -->
 
-# <span style="color:brown;">Resources</span>
+# Resources
 
 # what you want &harr; what you get<!--- fit --->
 
