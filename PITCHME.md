@@ -177,4 +177,4 @@ style: |
 
 ---
 
-<p class=textbrown>end</p>
+<p class=textbrown>End</p>
