@@ -138,7 +138,7 @@ theme: default
 
 <!-- _backgroundColor: lightblue -->
 
-# <span style="color:brown;">Time</span>
+# Time
 
 # time you have &harr; release date<!--- fit --->
 
@@ -169,6 +169,6 @@ theme: default
 
 ---
 
-[comment ![bg height:20cm](assets/NeelamRetires.png)]::
+![bg height:20cm](assets/NeelamRetires.png)
 
 ---
