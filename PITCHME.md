@@ -1,76 +1,174 @@
 ---
-marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
-theme: uncover
-transition: fade
+title: Markdown presentation
+description: 5 min Strategy Lesson
 paginate: true
-_paginate: false
+marp: true
+# size: 4:3
+footer: ykwong@suss.edu.sg
+theme: default
 ---
 
-![bg opacity](./assets/gradient.jpg)
+<!-- _class: invert -->
 
-# <!--fit--> Marp CLI example
+# 5 min
 
-Hosting Marp slide deck on the web
+# Strategy Lessons <!--- fit --->
 
-https://github.com/yhatt/marp-cli-example
+<!-- Speaker notes:
 
-<style scoped>a { color: #36c; }</style>
+* TimeFrame
 
-<!-- This is presenter note. You can write down notes through HTML comment. -->
+* Solve Real Problems
 
+* Communications
+
+* Balance
+
+* People
+-->
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+# Strategic Plan
 
----
+# 1, 3 or 5 years ?<!--- fit --->
 
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
+> be patient it takes time
+> good to articulate
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
+<!-- Speaker notes:
 
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+* It takes time for you to implement and then reflect on the successes or shortcomings.
 
----
+* It helps to present your case to stakeholders, other departments and visitors. Over time, you get better at articulating what your strategic and operational needs are.
 
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
-
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
-
----
-
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
-
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+* e.g. Content strategy, Mobile First, Online strategy
+-->
 
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
+# Meanwhile
 
-## **[Vercel](https://vercel.com/)**
+# Solve Real Problems<!--- fit --->
 
-#### Ready to write & host your deck!
+> addressing user needs
+> explore innovative solutions
+> be prepared to fail
+> be aware of shiny baubles
 
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+<!-- Speaker notes:
+
+* Easier to justify your time investment when you're solving specific problems. Also, you see results - which is encouraging. You know you're on the right track.
+
+* It would be good to have some flexibility to solve the problems you like.
+
+* e.g. LMS, XML-DITA
+-->
 
 ---
 
-### <!--fit--> :ok_hand:
+# Stakeholders, Bosses and Users
+
+# Inform and Educate<!--- fit --->
+
+> sell your solutions and value add
+> manage your progress
+> alignment
+
+<!-- Speaker notes:
+
+* Believe in yourself. Keep honest. Inform your bosses (most of them are there to help you!).
+
+* If need be, educate your bosses. Keep the big picture but allow yourself to show up in the attention to details.
+
+* e.g. Cloud computing, Implementation, External presentations
+-->
 
 ---
 
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
+# @Work
 
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
+![bg right:38% 70%](assets/balance7.png)
 
-https://github.com/yhatt/marp-cli-example
+# &nbsp; Balance &nbsp; <!--- fit --->
+
+<!-- Speaker notes:
+
+* not work-life balance
+
+-->
+
+---
+
+<!-- _backgroundColor: lightblue -->
+
+# <span style="color:brown;">Capability</span>
+
+## what you wish &harr; what is capable<!--- fit --->
+
+> timing (tech or people)
+> expectations
+
+<!-- Speaker notes:
+
+* new tech - old skills
+
+* e.g. programming, networking and security frameworks
+-->
+
+---
+
+<!-- _backgroundColor: lightblue -->
+
+# <span style="color:brown;">Resources</span>
+
+# what you want &harr; what you get<!--- fit --->
+
+> not just about budget
+> right people-talent
+> management support
+
+<!-- Speaker notes:
+
+* think hard about training
+
+* contracts, motivation, tech leadership
+-->
+
+---
+
+<!-- _backgroundColor: lightblue -->
+
+# <span style="color:brown;">Time</span>
+
+# time you have &harr; release date<!--- fit --->
+
+> piecewise release
+> plan-B
+
+<!-- Speaker notes:
+
+* rapid prototyping
+
+* iterative
+
+* e.g. UniLEARN, SUSSReader -> WebReader
+-->
+
+---
+
+# It's about
+
+# :smile: People :smile:<!-- fit -->
+
+<!-- Speaker notes:
+
+* Talent, Hire, reHire, Contracts, Medical Problems, PWD, Age
+
+* Motivation, family, camaderies, collegiality, quality
+-->
+
+---
+
+[comment ![bg height:20cm](assets/NeelamRetires.png)]::
+
+---
