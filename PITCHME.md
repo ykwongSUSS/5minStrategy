@@ -5,6 +5,10 @@ paginate: true
 marp: true
 footer: ykwong@suss.edu.sg
 theme: default
+style: |
+  .textbrown {
+     color:brown;
+  }
 ---
 
 <!-- _class: invert -->
@@ -172,3 +176,5 @@ theme: default
 ![bg height:20cm](assets/NeelamRetires.jpg)
 
 ---
+
+<p class=textbrown>end</p>
