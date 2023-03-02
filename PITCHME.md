@@ -1,13 +1,19 @@
 ---
 title: 5 Lessons in Strategy
-description: Strategy Leadership Lessons
 paginate: true
 marp: true
+# size: 4:3
 footer: ykwong@suss.edu.sg
 theme: default
 style: |
   .textbrown {
-     color:brown;
+    color: brown;
+  }
+  .end {
+    color: brown;
+    text-align: center;
+    font-style: bold;
+    font-size: 60pt;
   }
 ---
 
@@ -19,7 +25,7 @@ style: |
 
 <!-- Speaker notes:
 
-* TimeFrame
+* Time to manifest
 
 * Solve Real Problems
 
@@ -32,11 +38,11 @@ style: |
 
 ---
 
-# Strategic Plan
+# <span class=textbrown>1.</span> &nbsp; Strategic Plan
 
-# 1. &nbsp; 3 or 5 years ? &nbsp; &nbsp;<!--- fit --->
+# &nbsp;&nbsp; 3 or 5 years ? &nbsp; &nbsp;<!--- fit --->
 
-> be patient it takes time
+> time to manifest (patience)
 > good to articulate
 
 <!-- Speaker notes:
@@ -50,9 +56,9 @@ style: |
 
 ---
 
-# Meanwhile
+# <span class=textbrown>2.</span> &nbsp; Meanwhile
 
-# 2. Solve Real Problems<!--- fit --->
+# &nbsp; Solve Real Problems &nbsp; <!--- fit --->
 
 > addressing user needs
 > explore innovative solutions
@@ -70,9 +76,9 @@ style: |
 
 ---
 
-# Stakeholders, Bosses, Users and Visitors
+# <span class=textbrown>3.</span> &nbsp;Stakeholders, Bosses, Users and External
 
-# 3. Inform and Educate<!--- fit --->
+# &nbsp; Inform and Educate &nbsp; <!--- fit --->
 
 > sell your solutions and value add
 > manage your progress
@@ -89,11 +95,11 @@ style: |
 
 ---
 
-# @Work
+# <span class=textbrown>4.</span> &nbsp;@Work
 
 ![bg right:38% 70%](assets/balance7.png)
 
-# 4. Balance &nbsp; <!--- fit --->
+# &nbsp; Balance &nbsp; <!--- fit --->
 
 <!-- Speaker notes:
 
@@ -105,7 +111,7 @@ style: |
 
 <!-- _backgroundColor: lightblue -->
 
-# Capability
+# <span style="color:brown;">Capability</span>
 
 ## what you wish &harr; what is capable<!--- fit --->
 
@@ -123,7 +129,7 @@ style: |
 
 <!-- _backgroundColor: lightblue -->
 
-# Resources
+# <span style="color:brown;">Resources</span>
 
 # what you want &harr; what you get<!--- fit --->
 
@@ -142,7 +148,7 @@ style: |
 
 <!-- _backgroundColor: lightblue -->
 
-# Time
+# <span style="color:brown;">Time</span>
 
 # time you have &harr; release date<!--- fit --->
 
@@ -160,18 +166,18 @@ style: |
 
 ---
 
-# It's about
+# <span class=textbrown>5.</span> &nbsp;It's about
 
-# 5. People &nbsp;&nbsp;&nbsp;&nbsp; :smile:<!-- fit -->
+# &nbsp;&nbsp; People &nbsp;&nbsp;&nbsp; :smile:<!-- fit -->
 
 > talent, motivation, quality
-> family, collegiality, camaderie
+> family, collegiality, camaderie, productivity
 
 <!-- Speaker notes:
 
 * Talent, Hire, reHire, Contracts, Medical Problems, PWD, Age
 
-* Motivation, family, camaderies, collegiality, quality
+* Motivation, family, camaderie, collegiality, quality
 -->
 
 ---
@@ -180,6 +186,4 @@ style: |
 
 ---
 
-End
-
-
+# <p class=end>end</p>
