@@ -147,7 +147,7 @@ style: |
 
 <!-- _backgroundColor: lightblue -->
 
-# <span style="color:brown;">Time</span>
+# Time
 
 # time you have &harr; release date<!--- fit --->
 
