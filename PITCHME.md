@@ -55,7 +55,7 @@ style: |
 
 ---
 
-# <span class=textbrown>2.</span> &nbsp; Meanwhile
+# 2. &nbsp; Meanwhile
 
 # &nbsp; Solve Real Problems &nbsp; <!--- fit --->
 
@@ -75,7 +75,7 @@ style: |
 
 ---
 
-# <span class=textbrown>3.</span> &nbsp;Stakeholders, Bosses, Users and External
+# 3. &nbsp;Stakeholders, Bosses, Users and External
 
 # &nbsp; Inform and Educate &nbsp; <!--- fit --->
 
@@ -94,7 +94,7 @@ style: |
 
 ---
 
-# <span class=textbrown>4.</span> &nbsp;@Work
+# 4. &nbsp;@Work
 
 ![bg right:38% 70%](assets/balance7.png)
 
@@ -110,7 +110,7 @@ style: |
 
 <!-- _backgroundColor: lightblue -->
 
-# <span style="color:brown;">Capability</span>
+# Capability
 
 ## what you wish &harr; what is capable<!--- fit --->
 
@@ -128,7 +128,7 @@ style: |
 
 <!-- _backgroundColor: lightblue -->
 
-# <span style="color:brown;">Resources</span>
+# Resources
 
 # what you want &harr; what you get<!--- fit --->
 
@@ -165,7 +165,7 @@ style: |
 
 ---
 
-# <span class=textbrown>5.</span> &nbsp;It's about
+# <span style="color:brown;">5.</span> &nbsp;It's about
 
 # &nbsp;&nbsp; People &nbsp;&nbsp;&nbsp; :smile:<!-- fit -->
 
@@ -185,4 +185,4 @@ style: |
 
 ---
 
-# <p class=end>end</p>
+# <p style:"color:brown";">end</p>
