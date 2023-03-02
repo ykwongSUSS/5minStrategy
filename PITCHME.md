@@ -2,7 +2,6 @@
 title: 5 Lessons in Strategy
 paginate: true
 marp: true
-# size: 4:3
 footer: ykwong@suss.edu.sg
 theme: default
 style: |
@@ -38,7 +37,7 @@ style: |
 
 ---
 
-# <span class=textbrown>1.</span> &nbsp; Strategic Plan
+# 1.&nbsp; Strategic Plan
 
 # &nbsp;&nbsp; 3 or 5 years ? &nbsp; &nbsp;<!--- fit --->
 
