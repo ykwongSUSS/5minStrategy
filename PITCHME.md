@@ -1,6 +1,6 @@
 ---
-title: Markdown presentation
-description: 5 min Strategy Lesson
+title: 5 Lessons in Strategy
+description: Keywords: Strategy Leadership Lessons
 paginate: true
 marp: true
 footer: ykwong@suss.edu.sg
@@ -34,7 +34,7 @@ style: |
 
 # Strategic Plan
 
-# 1, 3 or 5 years ?<!--- fit --->
+# 1. &nbsp; 3 or 5 years ? &nbsp; &nbsp;<!--- fit --->
 
 > be patient it takes time
 > good to articulate
@@ -52,12 +52,12 @@ style: |
 
 # Meanwhile
 
-# Solve Real Problems<!--- fit --->
+# 2. Solve Real Problems<!--- fit --->
 
 > addressing user needs
 > explore innovative solutions
 > be prepared to fail
-> be aware of shiny baubles
+> beware of shiny baubles
 
 <!-- Speaker notes:
 
@@ -70,13 +70,13 @@ style: |
 
 ---
 
-# Stakeholders, Bosses and Users
+# Stakeholders, Bosses, Users and Visitors
 
-# Inform and Educate<!--- fit --->
+# 3. Inform and Educate<!--- fit --->
 
 > sell your solutions and value add
 > manage your progress
-> alignment
+> relevance and alignment
 
 <!-- Speaker notes:
 
@@ -93,7 +93,7 @@ style: |
 
 ![bg right:38% 70%](assets/balance7.png)
 
-# &nbsp; Balance &nbsp; <!--- fit --->
+# 4. Balance &nbsp; <!--- fit --->
 
 <!-- Speaker notes:
 
@@ -162,7 +162,10 @@ style: |
 
 # It's about
 
-# :smile: People :smile:<!-- fit -->
+# 5. People &nbsp;&nbsp;&nbsp;&nbsp; :smile:<!-- fit -->
+
+> talent, motivation, quality
+> family, collegiality, camaderie
 
 <!-- Speaker notes:
 
