@@ -1,6 +1,6 @@
 ---
 title: 5 Lessons in Strategy
-description: Keywords: Strategy Leadership Lessons
+description: Strategy Leadership Lessons
 paginate: true
 marp: true
 footer: ykwong@suss.edu.sg
