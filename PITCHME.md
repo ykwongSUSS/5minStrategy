@@ -165,7 +165,7 @@ style: |
 
 ---
 
-# <span style="color:brown;">5.</span> &nbsp;It's about
+# 5. &nbsp;It's about
 
 # &nbsp;&nbsp; People &nbsp;&nbsp;&nbsp; :smile:<!-- fit -->
 
